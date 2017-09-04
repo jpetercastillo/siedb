@@ -1,4 +1,5 @@
 # Siedb
 Sistema Experto para el Diagnóstico de Bulling
 
-Sistema Experto Basado en Redes Neuronales
+Basado en Redes Neuronales
+Basda en las Encuestas de InseBull
